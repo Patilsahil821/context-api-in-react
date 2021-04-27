@@ -1,1 +1,3 @@
 # context-api-in-react
+
+       I am learning react js and there is one powerful concept which name is context api so i thought to share on github so i can refer anytime.....
